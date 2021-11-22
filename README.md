@@ -4,3 +4,5 @@
 - Make a UI design
 - Work on the notice functionality
 - Work on ebooks
+
+App Dev 
