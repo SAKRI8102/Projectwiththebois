@@ -1,2 +1,2 @@
 # FirstProjectwithFriends
-An Epic Shit
+Do Epic Shit
